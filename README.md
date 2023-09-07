@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @humamfauzi
 - 👀 I’m interested in bulding backend systems and data management with various different languange
-- 🌱 I’m currently learning create a good app that works and maintainable
-- 💞️ I’m looking to collaborate on different backend systems and data management feature
-- 📫 How to reach me by mailing humam.fauzi.93@gmail.com
-- ✏️ Visit my github pages [humamfauzi.github.io](here)
+- 📫 You can reach me at humam.fauzi.93@gmail.com
+- Projects
+1. [Kindle Parser](https://kindle-parser.humamf.com) Parsing Kindle note export HTML to markdown.
 
 <!---
 humamfauzi/humamfauzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
